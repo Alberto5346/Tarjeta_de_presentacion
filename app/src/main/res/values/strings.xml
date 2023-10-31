@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tarjeta_de_presentación</string>
+    <string name="second_title">Alberto Capote Morales</string>
+    <string name="first_title">Alberto Capote Morales</string>
+    <string name="gmail_title">acamo1997@gmail.com</string>
+    <string name="fourth_title">acamo1997@gmail.com</string>
+    <string name="fourth_description">https://www.linkedin.com/in/alberto-capote-96332224b/</string>
+    <string name="fourth_telefono">64858873</string>
+    <string name="telefono">639039432</string>
+    <string name="your_text_id">Informático</string>
+</resources>
